@@ -1,13 +1,5 @@
 {
   "version": 2,
-    {
-      "src": "client/**/*",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "dist/public"
-      }
-    }
-  ],
   "routes": [
     {
       "src": "/api/(.*)",
