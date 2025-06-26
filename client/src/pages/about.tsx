@@ -6,10 +6,10 @@ export default function About() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>
-            <h1 className="text-4xl font-bold text-gray-900 mb-6">About Alloy Craft</h1>
+            <h1 className="text-4xl font-bold text-gray-900 mb-6">About Alloy Castech</h1>
             <div className="space-y-6 text-gray-600">
               <p className="text-lg">
-                <strong className="text-gray-900">Started in 2007</strong>, Alloy Craft began by casting front-fork outer tubes for two-wheelers in Ambala, Haryana. Today, we are a leading supplier of aluminum die-cast, CNC machined, and painted parts.
+                <strong className="text-gray-900">Started in 2023</strong>, Alloy Castech began by casting front-fork outer tubes for two-wheelers in Ambala, Haryana. Today, we are a leading supplier of aluminum die-cast, CNC machined, and painted parts.
               </p>
               
               <div className="grid sm:grid-cols-2 gap-4">
