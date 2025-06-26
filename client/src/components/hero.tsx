@@ -12,7 +12,7 @@ export default function Hero() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>
             <h1 className="text-4xl lg:text-6xl font-bold mb-6 leading-tight">
-              Welcome to <span className="text-blue-400">Alloy Craft</span>
+              Welcome to <span className="text-blue-400">Alloy Castech</span>
             </h1>
             <p className="text-xl text-gray-300 mb-8 leading-relaxed">
               Leading manufacturer of precision aluminum die-cast components, CNC machined parts, and painted assemblies for automotive, agriculture, and engineering industries.
@@ -25,7 +25,7 @@ export default function Hero() {
                 </Button>
               </Link>
               <Link href="/contact">
-                <Button variant="outline" size="lg" className="w-full sm:w-auto text-white border-white hover:bg-white hover:text-gray-900">
+                <Button variant="outline" size="lg" className="w-full sm:w-auto text-black border-white hover:bg-white hover:text-gray-900">
                   <Phone className="mr-2 h-5 w-5" />
                   Get Quote
                 </Button>
