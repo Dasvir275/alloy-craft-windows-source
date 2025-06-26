@@ -88,7 +88,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-medium text-gray-900">Address</h3>
-                    <p className="text-gray-600">#404-01, IGC Saha, Ambala 133104 (Haryana), India</p>
+                    <p className="text-gray-600">422, Industrial area Saha, Ambala 133001 (Haryana), India</p>
                   </div>
                 </div>
 
@@ -99,7 +99,7 @@ export default function Contact() {
                   <div>
                     <h3 className="font-medium text-gray-900">Email</h3>
                     <a href="mailto:info@alloycraft.in" className="text-primary hover:text-primary/80">
-                      info@alloycraft.in
+                      support@alloycastech.com
                     </a>
                   </div>
                 </div>
@@ -120,12 +120,8 @@ export default function Contact() {
                   <h3 className="font-medium mb-4">Business Hours</h3>
                   <div className="text-sm text-gray-600 space-y-1">
                     <div className="flex justify-between">
-                      <span>Monday - Friday</span>
-                      <span>9:00 AM - 6:00 PM</span>
-                    </div>
-                    <div className="flex justify-between">
-                      <span>Saturday</span>
-                      <span>9:00 AM - 1:00 PM</span>
+                      <span>Monday - Saturday</span>
+                      <span>9:00 AM - 5:00 PM</span>
                     </div>
                     <div className="flex justify-between">
                       <span>Sunday</span>
