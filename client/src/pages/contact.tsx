@@ -78,7 +78,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-medium text-gray-900">Contact Person</h3>
-                    <p className="text-gray-600">Mr. Amrit Pal</p>
+                    <p className="text-gray-600">Mr. Arshveer Singh</p>
                   </div>
                 </div>
 
