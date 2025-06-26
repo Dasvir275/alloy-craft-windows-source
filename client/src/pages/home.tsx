@@ -1,7 +1,6 @@
 import Hero from "@/components/hero";
 import { Card, CardContent } from "@/components/ui/card";
 import { Factory, Settings, Handshake } from "lucide-react";
-
 export default function Home() {
   return (
     <div>
