@@ -19,7 +19,7 @@ export default function Footer() {
                 <Linkedin size={20} />
               </a>
               <a 
-                href="mailto:info@alloycraft.in" 
+                href="mailto:support@alloycastech.com" 
                 className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-primary transition-colors"
               >
                 <Mail size={20} />
@@ -51,13 +51,13 @@ export default function Footer() {
               <li>CNC Machining</li>
               <li>Component Painting</li>
               <li>Custom Manufacturing</li>
-              <li>Quality Assurance</li>
+              <li>Painting to custom powder coating</li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 Alloy Craft. All rights reserved. | Designed for precision manufacturing excellence.</p>
+          <p>&copy; 2025 Alloy Castech. All rights reserved. | Designed for precision manufacturing excellence.</p>
         </div>
       </div>
     </footer>
