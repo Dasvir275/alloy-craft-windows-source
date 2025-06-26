@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-xl font-bold mb-4">Alloy Craft</h3>
+            <h3 className="text-xl font-bold mb-4">Alloy Castech</h3>
             <p className="text-gray-300 mb-4 max-w-md">
               Leading manufacturer of precision aluminum die-cast components, CNC machined parts, and painted assemblies since 2007.
             </p>
@@ -57,7 +57,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2025 Alloy Castech. All rights reserved. | Designed for precision manufacturing excellence.</p>
+          <p>&copy; 2025 Alloy Castech. All rights reserved.Dasvir Singh | Designed for precision manufacturing excellence.</p>
         </div>
       </div>
     </footer>
