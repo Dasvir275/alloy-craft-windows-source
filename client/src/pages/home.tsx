@@ -1,6 +1,4 @@
 import Hero from "@/components/hero";
-import PDFGenerator from "@/components/pdf-generator";
-import ScreenshotCapture from "@/components/screenshot-capture";
 import { Card, CardContent } from "@/components/ui/card";
 import { Factory, Settings, Handshake } from "lucide-react";
 
@@ -48,20 +46,6 @@ export default function Home() {
                 </p>
               </CardContent>
             </Card>
-          </div>
-        </div>
-      </section>
-
-      {/* PDF Generator Section */}
-      <section className="py-16 bg-gray-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">Documentation</h2>
-            <p className="text-lg text-gray-600">Generate professional PDF documentation of our website</p>
-          </div>
-          <div className="flex justify-center gap-6 flex-wrap">
-            <PDFGenerator />
-            <ScreenshotCapture />
           </div>
         </div>
       </section>
