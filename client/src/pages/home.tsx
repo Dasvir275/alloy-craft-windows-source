@@ -18,7 +18,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-semibold mb-4">Manufacturing Excellence</h3>
                 <p className="text-gray-600">
-                  Alloy Craft is engaged in manufacturing of Aluminum Casted and CNC machined Parts. We produce components of various standard and custom specific alloys.
+                  Alloy Castech is engaged in manufacturing of Aluminum Casted and CNC machined Parts. We produce components of various standard and custom specific alloys.
                 </p>
               </CardContent>
             </Card>
