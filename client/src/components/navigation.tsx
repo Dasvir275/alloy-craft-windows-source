@@ -27,7 +27,7 @@ export default function Navigation() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0">
-              <h1 className="text-xl font-bold text-gray-900">Alloy Craft</h1>
+              <h1 className="text-xl font-bold text-gray-900">Alloy Castech</h1>
               <p className="text-xs text-gray-500">Precision Manufacturing</p>
             </Link>
           </div>
